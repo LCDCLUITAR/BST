@@ -1,0 +1,144 @@
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Name: Luis D. Chaparro
+
+// Course: CSCE 3110_001
+
+// Assignment: Program 3
+
+// Due Date: 03/22/2016
+
+// Description: Analysis of data. For Question Answers 
+//		scroll down to bottom of page.
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+			First Analysis
+------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++
+A algorithm took 0.000306 ms  & (306 clicks)
+A algorithm took 0.000321 ms  & (321 clicks)
+A algorithm took 0.000311 ms  & (311 clicks)
+A algorithm took 0.000303 ms  & (303 clicks)
+A algorithm took 0.000313 ms  & (313 clicks)
+A algorithm took 0.00031 ms  & (310 clicks)
+A algorithm took 0.000311 ms  & (311 clicks)
+A algorithm took 0.000303 ms  & (303 clicks)
+A algorithm took 0.000302 ms  & (302 clicks)
+
+++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++
+B algorithm took 0.000124 ms  & (124 clicks)
+B algorithm took 0.000127 ms  & (127 clicks)
+B algorithm took 0.000124 ms  & (124 clicks)
+B algorithm took 0.000124 ms  & (124 clicks)
+B algorithm took 0.00014 ms  & (140 clicks)
+B algorithm took 0.000131 ms  & (131 clicks)
+B algorithm took 0.000134 ms  & (134 clicks)
+B algorithm took 0.000125 ms  & (125 clicks)
+B algorithm took 0.000129 ms  & (129 clicks)
+
+++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++
+C algorithm took 0.00013 ms  & (130 clicks)
+C algorithm took 0.00031 ms  & (310 clicks)
+C algorithm took 0.000135 ms  & (135 clicks)
+C algorithm took 0.00031 ms  & (310 clicks)
+C algorithm took 0.000231 ms  & (231 clicks)
+C algorithm took 0.000308 ms  & (308 clicks)
+C algorithm took 0.00031 ms  & (310 clicks)
+C algorithm took 0.000133 ms  & (133 clicks)
+C algorithm took 0.000206 ms  & (206 clicks)
+
+++++++++++++++++++++++++++++++++++++++++
+			Second Analysis
+------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++
+A algorithm took 0.000297 ms  & (297 clicks)
+A algorithm took 0.000312 ms  & (312 clicks)
+A algorithm took 0.000314 ms  & (314 clicks)
+A algorithm took 0.000302 ms  & (302 clicks)
+A algorithm took 0.000303 ms  & (303 clicks)
+A algorithm took 0.000304 ms  & (304 clicks)
+A algorithm took 0.000312 ms  & (312 clicks)
+A algorithm took 0.000302 ms  & (302 clicks)
+A algorithm took 0.000301 ms  & (301 clicks)
+
+++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++
+B algorithm took 0.000119 ms  & (119 clicks)
+B algorithm took 0.000136 ms  & (136 clicks)
+B algorithm took 0.000124 ms  & (124 clicks)
+B algorithm took 0.000122 ms  & (122 clicks)
+B algorithm took 0.000127 ms  & (127 clicks)
+B algorithm took 0.000127 ms  & (127 clicks)
+B algorithm took 0.000125 ms  & (125 clicks)
+B algorithm took 0.000134 ms  & (134 clicks)
+B algorithm took 0.000123 ms  & (123 clicks)
+
+++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++
+C algorithm took 0.000307 ms  & (307 clicks)
+C algorithm took 0.000144 ms  & (144 clicks)
+C algorithm took 0.000148 ms  & (148 clicks)
+C algorithm took 0.000222 ms  & (222 clicks)
+C algorithm took 0.000137 ms  & (137 clicks)
+C algorithm took 0.000315 ms  & (315 clicks)
+C algorithm took 0.000133 ms  & (133 clicks)
+C algorithm took 0.000201 ms  & (201 clicks)
+C algorithm took 0.000132 ms  & (132 clicks)
+
+++++++++++++++++++++++++++++++++++++++++
+			Third Analysis
+------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++
+A algorithm took 0.000296 ms  & (296 clicks)
+A algorithm took 0.000304 ms  & (304 clicks)
+A algorithm took 0.0003 ms  & (300 clicks)
+A algorithm took 0.000307 ms  & (307 clicks)
+A algorithm took 0.000306 ms  & (306 clicks)
+A algorithm took 0.000309 ms  & (309 clicks)
+A algorithm took 0.0003 ms  & (300 clicks)
+A algorithm took 0.0003 ms  & (300 clicks)
+A algorithm took 0.000308 ms  & (308 clicks)
+
+++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++
+B algorithm took 0.000126 ms  & (126 clicks)
+B algorithm took 0.000126 ms  & (126 clicks)
+B algorithm took 0.000128 ms  & (128 clicks)
+B algorithm took 0.000124 ms  & (124 clicks)
+B algorithm took 0.000123 ms  & (123 clicks)
+B algorithm took 0.000124 ms  & (124 clicks)
+B algorithm took 0.000127 ms  & (127 clicks)
+B algorithm took 0.000123 ms  & (123 clicks)
+B algorithm took 0.000124 ms  & (124 clicks)
+
+++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++
+C algorithm took 0.000305 ms  & (305 clicks)
+C algorithm took 0.000136 ms  & (136 clicks)
+C algorithm took 0.000135 ms  & (135 clicks)
+C algorithm took 0.000135 ms  & (135 clicks)
+C algorithm took 0.000318 ms  & (318 clicks)
+C algorithm took 0.000311 ms  & (311 clicks)
+C algorithm took 0.000144 ms  & (144 clicks)
+C algorithm took 0.000307 ms  & (307 clicks)
+C algorithm took 0.000132 ms  & (132 clicks)
+
+++++++++++++++++++++++++++++++++++++++++
+			4.15 Answers
+------------------------------------------------------------
+After adding 1000000 to each case binary search tree and deleting 100000 nodes: 
+case A showed to be a little slower than the other cases
+case B showed to be the strategy that gave the most balance &
+case C showed to be random, giving great and poor balance.
+
+***********************************************************************
++++								    +++
++++ Case B takes the least CPU time to process the entire sequence. +++
++++								    +++
+***********************************************************************
